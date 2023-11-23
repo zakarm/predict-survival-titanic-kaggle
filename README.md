@@ -13,3 +13,4 @@ My submission achieved a score of 0.78468 on the Kaggle leaderboard. This score 
 
 ## Conclusion
 This competition was a great opportunity to apply machine learning techniques to a real-world problem. I learned a lot about data preprocessing, feature engineering, and model selection while working on this project. In the future, I plan to continue experimenting with different algorithms and techniques to improve my score.
+
